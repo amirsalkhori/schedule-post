@@ -1,0 +1,14 @@
+'App\Entity\BusinessAccount':
+    business_account_{1..100}:
+        companyName: <sentence(5)>
+        phoneNumber: <tollFreePhoneNumber()>
+        country: <countryCode()>
+        postCode: <postcode()>
+        streetAddress: <streetAddress()> 
+        companyRegisterationNumber: <randomNumber()>
+        taxIdentifier: <sentence(2)>
+        dataProtectionOfficer: <sentence(3)>
+        locationLat: <randomNumber()>
+        locationLong: <randomNumber()>
+        websiteDomain: <sentence(1)>
+        businnessEmail: <sentence(1)>
