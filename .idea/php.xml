@@ -102,7 +102,6 @@
       <path value="$PROJECT_DIR$/api/vendor/doctrine/persistence" />
       <path value="$PROJECT_DIR$/api/vendor/doctrine/inflector" />
       <path value="$PROJECT_DIR$/api/vendor/lcobucci/jwt" />
-      <path value="$PROJECT_DIR$/api/vendor/fakerphp/faker" />
       <path value="$PROJECT_DIR$/api/vendor/ralouphie/getallheaders" />
       <path value="$PROJECT_DIR$/api/vendor/lcobucci/clock" />
       <path value="$PROJECT_DIR$/api/vendor/sebastian/complexity" />
@@ -123,7 +122,6 @@
       <path value="$PROJECT_DIR$/api/vendor/sebastian/resource-operations" />
       <path value="$PROJECT_DIR$/api/vendor/composer" />
       <path value="$PROJECT_DIR$/api/vendor/webmozart/assert" />
-      <path value="$PROJECT_DIR$/api/vendor/theofidry/alice-data-fixtures" />
       <path value="$PROJECT_DIR$/api/vendor/guzzlehttp/promises" />
       <path value="$PROJECT_DIR$/api/vendor/guzzlehttp/psr7" />
       <path value="$PROJECT_DIR$/api/vendor/willdurand/negotiation" />
@@ -151,7 +149,7 @@
       <path value="$PROJECT_DIR$/api/vendor/namshi/jose" />
       <path value="$PROJECT_DIR$/api/vendor/league/html-to-markdown" />
       <path value="$PROJECT_DIR$/api/vendor/nelmio/cors-bundle" />
-      <path value="$PROJECT_DIR$/api/vendor/nelmio/alice" />
+      <path value="$PROJECT_DIR$/api/vendor/doctrine/doctrine-fixtures-bundle" />
     </include_path>
   </component>
   <component name="PhpProjectSharedConfiguration" php_language_level="8.0">
